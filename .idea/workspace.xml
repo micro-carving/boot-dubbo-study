@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1458e5a-311e-44d4-b222-ed51f1a4acb5" name="Default Changelist" comment="" />
+    <list default="true" id="e1458e5a-311e-44d4-b222-ed51f1a4acb5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo学习.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/boot-dubbo-api/target/" />
     <ignored path="$PROJECT_DIR$/boot-order-web-consumer/target/" />
@@ -33,7 +36,29 @@
     <favorites_list name="boot-dubbo-study" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dubbo学习.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="300">
+                <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+                <folding>
+                  <element signature="e#172#173#0" expanded="true" />
+                  <element signature="e#224#225#0" expanded="true" />
+                  <element signature="e#356#357#0" expanded="true" />
+                  <element signature="e#407#408#0" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="e#186#187#0" expanded="true" />
+                  <element signature="e#230#231#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,6 +91,7 @@
         <option value="$PROJECT_DIR$/boot-order-web-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/boot-order-web-consumer/src/main/java/git/olin/gmall/BootOrderWebConsumerApplication.java" />
         <option value="$PROJECT_DIR$/boot-order-web-consumer/src/main/java/git/olin/gmall/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dubbo学习.md" />
       </list>
     </option>
   </component>
@@ -92,9 +118,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="517" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+    <option name="x" value="-24" />
+    <option name="y" value="73" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -180,7 +207,7 @@
       <workItem from="1584436823400" duration="11004000" />
       <workItem from="1584453587122" duration="856000" />
       <workItem from="1584510529036" duration="8670000" />
-      <workItem from="1584594572431" duration="623000" />
+      <workItem from="1584594572431" duration="2790000" />
     </task>
     <task id="LOCAL-00001" summary="add .md files">
       <created>1584594840540</created>
@@ -189,11 +216,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584594840540</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add .md files">
+      <created>1584595451946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584595451946</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40542000" />
+    <option name="totallyTimeSpent" value="42709000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -206,8 +240,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.2647504" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49769586" weight="0.2647504" />
       <window_info id="Structure" order="1" sideWeight="0.50230414" side_tool="true" weight="0.25567323" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -229,7 +264,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32872504" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32872504" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.67230767" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.67230767" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
@@ -485,11 +520,16 @@
     <entry file="file://$PROJECT_DIR$/dubbo学习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="199">
-            <caret line="947" selection-start-line="947" selection-end-line="947" />
+          <first_editor relative-caret-position="300">
+            <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
             <folding>
+              <element signature="e#172#173#0" expanded="true" />
+              <element signature="e#224#225#0" expanded="true" />
+              <element signature="e#356#357#0" expanded="true" />
+              <element signature="e#407#408#0" expanded="true" />
               <element signature="imports" expanded="true" />
-              <element signature="imports" expanded="true" />
+              <element signature="e#186#187#0" expanded="true" />
+              <element signature="e#230#231#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
